@@ -1,0 +1,11 @@
+*{
+    font-family: 'Lusitana', serif;
+}
+
+.title-logo{
+    margin-top: 10px;
+}
+
+.text-muted{
+    color: #bcbbbb;
+}
